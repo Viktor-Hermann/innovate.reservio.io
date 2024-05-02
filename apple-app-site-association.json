@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "26K45YRWS8.com.innovate.reservio"
+                ],
+                "components": [
+                    {
+                        "/": "/spot/*",
+                        "comment": "Matches any URL whose path starts with /spot/ followed by any character"
+                    }
+                ]
+            }
+        ]
+    }
+}
